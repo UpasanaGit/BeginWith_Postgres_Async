@@ -1,0 +1,23 @@
+{
+  "name": "beginwith_postgres_async",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UpasanaGit/BeginWith_Postgres_Async.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UpasanaGit/BeginWith_Postgres_Async/issues"
+  },
+  "homepage": "https://github.com/UpasanaGit/BeginWith_Postgres_Async#readme",
+  "description": "",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "pg": "^8.6.0"
+  }
+}
